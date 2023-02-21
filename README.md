@@ -1,2 +1,1 @@
-# Vite-template
-Vite的模板
+# 人生苦短，我用Manjaro
