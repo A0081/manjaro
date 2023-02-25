@@ -16,32 +16,21 @@
       yay -S debtap
       ```
 
-      
-
    2. 更新debtap数据库
 
       ```bash 
       sudo debtap -u
       ```
-
-      
-
    3. 使用debtap转换deb包
 
       ```bash 
       debtap xxx.deb
       ```
-
-      
-
    4. 安装
 
       ```bash
       sudo pacman -U xxx.pkg
       ```
-
-      
-
 2. Appimage包的使用
 
    给appimage执行权限，双击即可
