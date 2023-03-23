@@ -12,7 +12,7 @@ export default defineConfig({
 //-------------------------------主题配置-----------------------------------------
     themeConfig: {
       siteTitle: 'Manjaro',
-      logo: '/manjaro.png',
+      logo: '/logo.png',
       socialLinks: [
         { icon: 'github', link: 'https://github.com/A0081' },//  这里要改为项目的github连接
         // You can also add custom icons by passing SVG as string:
