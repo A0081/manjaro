@@ -7,15 +7,15 @@ export default defineConfig({
     lastUpdated: true ,//最后更新时间
     titleTemplate: ' _0081', //该选项为title | _0081
     cleanUrls: true,
-
+    head:[
+      ['link', { rel: 'icon', href: '/favicon.ico' }]
+  ],
 
 //-------------------------------主题配置-----------------------------------------
     themeConfig: {
       siteTitle: 'Manjaro',
       logo: '/logo.png',
-      head:[
-        ['link', { rel: 'icon', href: '/favicon.ico' }]
-    ],
+      
       socialLinks: [
         { icon: 'github', link: 'https://github.com/A0081' },//  这里要改为项目的github连接
         // You can also add custom icons by passing SVG as string:
@@ -51,7 +51,7 @@ sidebar: [
 //-------------------------------导航栏--------------------------------------------
 nav: [
   { text: 'Magic', link: '/magic' },
-  { text: 'Arco Guide', link: 'https://www.bilibili.com/' },
+  { text: 'Arco Guide', link: 'https://arco.i0081.wiki/' },
   { text: 'Vitepress如何使用', link: 'https://www.bilibili.com' },
   { text: '相关参考', link: '/cankao' },
 ]
