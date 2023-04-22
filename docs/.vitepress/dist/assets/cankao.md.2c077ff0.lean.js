@@ -1,0 +1,1 @@
+import{_ as a,c as e,o as r,N as t}from"./chunks/framework.0799945b.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"cankao.md","lastUpdated":1676957251000}'),n={name:"cankao.md"},o=t("",4),_=[o];function s(c,l,p,i,h,f){return r(),e("div",null,_)}const b=a(n,[["render",s]]);export{m as __pageData,b as default};

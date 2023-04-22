@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as r,N as t}from"./chunks/framework.0799945b.js";const f=JSON.parse('{"title":"MAGIC","description":"","frontmatter":{},"headers":[],"relativePath":"magic.md","lastUpdated":1676957251000}'),o={name:"magic.md"},s=t("",5),c=[s];function n(i,d,_,l,h,p){return r(),a("div",null,c)}const g=e(o,[["render",n]]);export{f as __pageData,g as default};
