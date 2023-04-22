@@ -13,6 +13,9 @@ export default defineConfig({
     themeConfig: {
       siteTitle: 'Manjaro',
       logo: '/logo.png',
+      head:[
+        ['link', { rel: 'icon', href: '/favicon.ico' }]
+    ],
       socialLinks: [
         { icon: 'github', link: 'https://github.com/A0081' },//  这里要改为项目的github连接
         // You can also add custom icons by passing SVG as string:
