@@ -11,7 +11,7 @@ hero:
       link: /intr
     - theme: alt
       text: 🍌 GitHub
-      link: https://github.com/vuejs/vitepress
+      link: https://github.com/A0081/manjaro
 
 features:
   - title: 格式优化
