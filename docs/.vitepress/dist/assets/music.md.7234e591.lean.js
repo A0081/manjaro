@@ -1,1 +1,0 @@
-import{_ as a,c as s,o as e,N as l}from"./chunks/framework.0799945b.js";const y=JSON.parse('{"title":"🎥视频影音","description":"","frontmatter":{},"headers":[],"relativePath":"music.md","lastUpdated":1676957251000}'),n={name:"music.md"},t=l("",17),o=[t];function p(i,r,c,h,d,C){return e(),s("div",null,o)}const m=a(n,[["render",p]]);export{y as __pageData,m as default};

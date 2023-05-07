@@ -1,1 +1,0 @@
-import{_ as a,c as e,o as l,N as s}from"./chunks/framework.0799945b.js";const m=JSON.parse('{"title":"💬聊天通讯","description":"","frontmatter":{},"headers":[],"relativePath":"chat.md","lastUpdated":1676957251000}'),n={name:"chat.md"},t=s("",32),o=[t];function r(p,i,c,h,d,g){return l(),e("div",null,o)}const b=a(n,[["render",r]]);export{m as __pageData,b as default};

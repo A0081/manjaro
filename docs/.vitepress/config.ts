@@ -52,7 +52,7 @@ sidebar: [
 nav: [
   { text: 'Magic', link: '/magic' },
   { text: 'Arco Guide', link: 'https://arco.i0081.wiki/' },
-  { text: 'Vitepress如何使用', link: 'https://www.bilibili.com' },
+  { text: 'Vitepress如何使用', link: 'https://www.bilibili.com/video/BV1iv4y1g7sp/?spm_id_from=333.337.search-card.all.click&vd_source=cd3c29af1bdcb4f9625088e805921003' },
   { text: '相关参考', link: '/cankao' },
 ]
 

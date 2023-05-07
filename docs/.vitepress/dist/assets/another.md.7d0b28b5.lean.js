@@ -1,1 +1,0 @@
-import{_ as s,c as a,o as n,N as l}from"./chunks/framework.0799945b.js";const h=JSON.parse('{"title":"Manjaro配置","description":"","frontmatter":{},"headers":[],"relativePath":"another.md","lastUpdated":1676957251000}'),o={name:"another.md"},p=l("",9),e=[p];function t(c,r,C,i,y,A){return n(),a("div",null,e)}const d=s(o,[["render",t]]);export{h as __pageData,d as default};

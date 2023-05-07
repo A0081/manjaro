@@ -1,1 +1,0 @@
-import{_ as a,c as r,o as e,N as t}from"./chunks/framework.0799945b.js";const n="/Manjaro.png",m=JSON.parse('{"title":"Manjaro","description":"","frontmatter":{},"headers":[],"relativePath":"intr.md","lastUpdated":1676957251000}'),o={name:"intr.md"},i=t("",5),_=[i];function c(s,l,p,h,d,u){return e(),r("div",null,_)}const f=a(o,[["render",c]]);export{m as __pageData,f as default};
